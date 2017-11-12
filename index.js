@@ -1,5 +1,5 @@
 // Code your solution in this file!
-const companyName = 'Scubber';
+const companyName = 'Scuber';
 
 let mostProfitableNeighborhood = 'Chelsea';
 
